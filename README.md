@@ -2,13 +2,13 @@
 **Auteur :** Alexander Rayner-Barcelli  
 **Date :** 2025  
 
-## 📌 Introduction  
+## Introduction  
 Ce projet présente mon profil multimédia, mes forces, mes défis ainsi que mon parcours professionnel potentiel après la Technique d’Intégration Multimédia.  
 Il inclut une **carte mentale**, un **diagramme de flux**, et des informations tirées de ma présentation PowerPoint.
 
 ---
 
-## 🧠 Carte Mentale  
+## Carte Mentale  
 ### Section créative  
 - **Compétences :** créativité, curiosité  
 - **Intérêts :** photographie, vidéo, création de concepts visuels  
@@ -21,7 +21,7 @@ Il inclut une **carte mentale**, un **diagramme de flux**, et des informations t
 
 ---
 
-## 🔄 Diagramme de flux – Parcours TIM  
+## Diagramme de flux – Parcours TIM  
 1. **Formation TIM**  
    - Cours en multimédia  
    - Bases techniques  
@@ -41,16 +41,16 @@ Il inclut une **carte mentale**, un **diagramme de flux**, et des informations t
 
 ---
 
-## 📸 Moodboard, Carte mentale et Diagramme de flux  
+## Moodboard, Carte mentale et Diagramme de flux  
 *(À remplacer par tes liens ou images)*
 
 - ![Moodboard](/moodboard_domain_rayner-barcelli_alexander.png)
 - ![Carte Mental](carte_mental_alex.png) 
-- ![Diagramme de flux](diagrammedeflux.png)
+- ![Diagramme de flux](diagramme_de_flux.png)
 
 ---
 
-## 📚 Contenu résumé du PowerPoint  
+## Contenu résumé du PowerPoint  
 - **Je suis une personne créative** avec un intérêt fort pour le multimédia.  
 - **Motivation principale :** développer ma créativité et créer mes propres projets.  
 - **Domaine préféré :** photographie et vidéo.  
@@ -59,5 +59,5 @@ Il inclut une **carte mentale**, un **diagramme de flux**, et des informations t
 
 ---
 
-## ✔️ Conclusion  
+## Conclusion  
 Ce projet représente mon identité multimédia, mes ambitions et mon cheminement possible dans le domaine.
